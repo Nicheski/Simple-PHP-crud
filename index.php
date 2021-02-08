@@ -24,7 +24,7 @@ $result = $link->query($sql);
                 <div class="card" style="margin-top: 20px;margin-bottom: 20px;">
                     <div class="card-body">
                         <h2 class="pull-left">User Details <a href="create.php" class="btn btn-success pull-right">Add New User</a></h2>
-                        <h6>Find more interesting tutorials at <a href="https://bishrulhaq.com/">bishrulhaq.com</a></h6>
+              
                     </div>
                 </div>
                 <?php
